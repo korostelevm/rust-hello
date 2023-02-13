@@ -1,0 +1,6 @@
+
+
+
+build:
+	rustc main.rs
+	
